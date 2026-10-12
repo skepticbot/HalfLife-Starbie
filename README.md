@@ -33,5 +33,3 @@ Credits
 I followed the Starbie starter project and its Week 1 guide to help me make this project.
 # HalfLife-Starbie
 <img width="698" height="648" alt="image" src="https://github.com/user-attachments/assets/194b186f-524f-4c46-92a7-2d6505b93852" />
-nstarr week 1 Schematic.kicad_pcb
-nstarr week 1 Schematic.kicad_sch
